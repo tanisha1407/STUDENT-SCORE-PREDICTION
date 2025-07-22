@@ -1,6 +1,7 @@
 # 🎓 Student Exam Score Predictor
 
 This project predicts a student’s exam score based on multiple factors such as study hours, attendance, parental involvement, sleep, motivation level, and more using a **Linear Regression model**. The model is deployed with a **Streamlit GUI** for easy interaction.
+Live app: https://student-score-prediction-pnr2pgezcyknrivunvsdpr.streamlit.app/
 
 ## 🚀 Features
 
